@@ -1,0 +1,471 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		F9048800157DE31E00A97FBC /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F90487FF157DE31E00A97FBC /* UIKit.framework */; };
+		F9048802157DE31E00A97FBC /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F9048801157DE31E00A97FBC /* Foundation.framework */; };
+		F9048804157DE31E00A97FBC /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F9048803157DE31E00A97FBC /* CoreGraphics.framework */; };
+		F904880A157DE31E00A97FBC /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = F9048808157DE31E00A97FBC /* InfoPlist.strings */; };
+		F904880C157DE31E00A97FBC /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = F904880B157DE31E00A97FBC /* main.m */; };
+		F9048810157DE31E00A97FBC /* GlossaryAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = F904880F157DE31E00A97FBC /* GlossaryAppDelegate.m */; };
+		F9048813157DE31E00A97FBC /* GlossaryViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F9048812157DE31E00A97FBC /* GlossaryViewController.m */; };
+		F9048816157DE31E00A97FBC /* GlossaryViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = F9048814157DE31E00A97FBC /* GlossaryViewController.xib */; };
+		F904881E157DE31E00A97FBC /* SenTestingKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F904881D157DE31E00A97FBC /* SenTestingKit.framework */; };
+		F904881F157DE31E00A97FBC /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F90487FF157DE31E00A97FBC /* UIKit.framework */; };
+		F9048820157DE31E00A97FBC /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F9048801157DE31E00A97FBC /* Foundation.framework */; };
+		F9048828157DE31E00A97FBC /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = F9048826157DE31E00A97FBC /* InfoPlist.strings */; };
+		F904882B157DE31E00A97FBC /* GlossaryItemsTests.m in Sources */ = {isa = PBXBuildFile; fileRef = F904882A157DE31E00A97FBC /* GlossaryItemsTests.m */; };
+		F9048837157DE33900A97FBC /* GlossaryDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F9048835157DE33900A97FBC /* GlossaryDetailViewController.m */; };
+		F9048838157DE33900A97FBC /* GlossaryDetailViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = F9048836157DE33900A97FBC /* GlossaryDetailViewController.xib */; };
+		F904883C157DE37600A97FBC /* Glossary.plist in Resources */ = {isa = PBXBuildFile; fileRef = F904883B157DE37600A97FBC /* Glossary.plist */; };
+		F904883F157DE38F00A97FBC /* GlossaryData.m in Sources */ = {isa = PBXBuildFile; fileRef = F904883E157DE38F00A97FBC /* GlossaryData.m */; };
+		F9048846157DE7C900A97FBC /* NSDictionary+MutableDeepCopy.m in Sources */ = {isa = PBXBuildFile; fileRef = F9048845157DE7C900A97FBC /* NSDictionary+MutableDeepCopy.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		F9048821157DE31E00A97FBC /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = F90487F2157DE31E00A97FBC /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = F90487FA157DE31E00A97FBC;
+			remoteInfo = GlossaryItems;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		F90487FB157DE31E00A97FBC /* GlossaryItems.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GlossaryItems.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		F90487FF157DE31E00A97FBC /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		F9048801157DE31E00A97FBC /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		F9048803157DE31E00A97FBC /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		F9048807157DE31E00A97FBC /* GlossaryItems-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "GlossaryItems-Info.plist"; sourceTree = "<group>"; };
+		F9048809157DE31E00A97FBC /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		F904880B157DE31E00A97FBC /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		F904880D157DE31E00A97FBC /* GlossaryItems-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "GlossaryItems-Prefix.pch"; sourceTree = "<group>"; };
+		F904880E157DE31E00A97FBC /* GlossaryAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GlossaryAppDelegate.h; sourceTree = "<group>"; };
+		F904880F157DE31E00A97FBC /* GlossaryAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GlossaryAppDelegate.m; sourceTree = "<group>"; };
+		F9048811157DE31E00A97FBC /* GlossaryViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GlossaryViewController.h; sourceTree = "<group>"; };
+		F9048812157DE31E00A97FBC /* GlossaryViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GlossaryViewController.m; sourceTree = "<group>"; };
+		F9048815157DE31E00A97FBC /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/GlossaryViewController.xib; sourceTree = "<group>"; };
+		F904881C157DE31E00A97FBC /* GlossaryItemsTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GlossaryItemsTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
+		F904881D157DE31E00A97FBC /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
+		F9048825157DE31E00A97FBC /* GlossaryItemsTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "GlossaryItemsTests-Info.plist"; sourceTree = "<group>"; };
+		F9048827157DE31E00A97FBC /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		F9048829157DE31E00A97FBC /* GlossaryItemsTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GlossaryItemsTests.h; sourceTree = "<group>"; };
+		F904882A157DE31E00A97FBC /* GlossaryItemsTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GlossaryItemsTests.m; sourceTree = "<group>"; };
+		F9048834157DE33900A97FBC /* GlossaryDetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GlossaryDetailViewController.h; sourceTree = "<group>"; };
+		F9048835157DE33900A97FBC /* GlossaryDetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GlossaryDetailViewController.m; sourceTree = "<group>"; };
+		F9048836157DE33900A97FBC /* GlossaryDetailViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = GlossaryDetailViewController.xib; sourceTree = "<group>"; };
+		F904883B157DE37600A97FBC /* Glossary.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Glossary.plist; sourceTree = "<group>"; };
+		F904883D157DE38F00A97FBC /* GlossaryData.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GlossaryData.h; sourceTree = "<group>"; };
+		F904883E157DE38F00A97FBC /* GlossaryData.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GlossaryData.m; sourceTree = "<group>"; };
+		F9048844157DE7C900A97FBC /* NSDictionary+MutableDeepCopy.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSDictionary+MutableDeepCopy.h"; sourceTree = "<group>"; };
+		F9048845157DE7C900A97FBC /* NSDictionary+MutableDeepCopy.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSDictionary+MutableDeepCopy.m"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		F90487F8157DE31E00A97FBC /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F9048800157DE31E00A97FBC /* UIKit.framework in Frameworks */,
+				F9048802157DE31E00A97FBC /* Foundation.framework in Frameworks */,
+				F9048804157DE31E00A97FBC /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F9048818157DE31E00A97FBC /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F904881E157DE31E00A97FBC /* SenTestingKit.framework in Frameworks */,
+				F904881F157DE31E00A97FBC /* UIKit.framework in Frameworks */,
+				F9048820157DE31E00A97FBC /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		F90487F0157DE31E00A97FBC = {
+			isa = PBXGroup;
+			children = (
+				F9048805157DE31E00A97FBC /* GlossaryItems */,
+				F9048823157DE31E00A97FBC /* GlossaryItemsTests */,
+				F90487FE157DE31E00A97FBC /* Frameworks */,
+				F90487FC157DE31E00A97FBC /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		F90487FC157DE31E00A97FBC /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				F90487FB157DE31E00A97FBC /* GlossaryItems.app */,
+				F904881C157DE31E00A97FBC /* GlossaryItemsTests.octest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		F90487FE157DE31E00A97FBC /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				F90487FF157DE31E00A97FBC /* UIKit.framework */,
+				F9048801157DE31E00A97FBC /* Foundation.framework */,
+				F9048803157DE31E00A97FBC /* CoreGraphics.framework */,
+				F904881D157DE31E00A97FBC /* SenTestingKit.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		F9048805157DE31E00A97FBC /* GlossaryItems */ = {
+			isa = PBXGroup;
+			children = (
+				F904880E157DE31E00A97FBC /* GlossaryAppDelegate.h */,
+				F904880F157DE31E00A97FBC /* GlossaryAppDelegate.m */,
+				F9048811157DE31E00A97FBC /* GlossaryViewController.h */,
+				F9048812157DE31E00A97FBC /* GlossaryViewController.m */,
+				F9048814157DE31E00A97FBC /* GlossaryViewController.xib */,
+				F9048834157DE33900A97FBC /* GlossaryDetailViewController.h */,
+				F9048835157DE33900A97FBC /* GlossaryDetailViewController.m */,
+				F9048836157DE33900A97FBC /* GlossaryDetailViewController.xib */,
+				F904883D157DE38F00A97FBC /* GlossaryData.h */,
+				F904883E157DE38F00A97FBC /* GlossaryData.m */,
+				F9048844157DE7C900A97FBC /* NSDictionary+MutableDeepCopy.h */,
+				F9048845157DE7C900A97FBC /* NSDictionary+MutableDeepCopy.m */,
+				F9048806157DE31E00A97FBC /* Supporting Files */,
+			);
+			path = GlossaryItems;
+			sourceTree = "<group>";
+		};
+		F9048806157DE31E00A97FBC /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				F904883B157DE37600A97FBC /* Glossary.plist */,
+				F9048807157DE31E00A97FBC /* GlossaryItems-Info.plist */,
+				F9048808157DE31E00A97FBC /* InfoPlist.strings */,
+				F904880B157DE31E00A97FBC /* main.m */,
+				F904880D157DE31E00A97FBC /* GlossaryItems-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		F9048823157DE31E00A97FBC /* GlossaryItemsTests */ = {
+			isa = PBXGroup;
+			children = (
+				F9048829157DE31E00A97FBC /* GlossaryItemsTests.h */,
+				F904882A157DE31E00A97FBC /* GlossaryItemsTests.m */,
+				F9048824157DE31E00A97FBC /* Supporting Files */,
+			);
+			path = GlossaryItemsTests;
+			sourceTree = "<group>";
+		};
+		F9048824157DE31E00A97FBC /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				F9048825157DE31E00A97FBC /* GlossaryItemsTests-Info.plist */,
+				F9048826157DE31E00A97FBC /* InfoPlist.strings */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		F90487FA157DE31E00A97FBC /* GlossaryItems */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F904882E157DE31E00A97FBC /* Build configuration list for PBXNativeTarget "GlossaryItems" */;
+			buildPhases = (
+				F90487F7157DE31E00A97FBC /* Sources */,
+				F90487F8157DE31E00A97FBC /* Frameworks */,
+				F90487F9157DE31E00A97FBC /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = GlossaryItems;
+			productName = GlossaryItems;
+			productReference = F90487FB157DE31E00A97FBC /* GlossaryItems.app */;
+			productType = "com.apple.product-type.application";
+		};
+		F904881B157DE31E00A97FBC /* GlossaryItemsTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F9048831157DE31E00A97FBC /* Build configuration list for PBXNativeTarget "GlossaryItemsTests" */;
+			buildPhases = (
+				F9048817157DE31E00A97FBC /* Sources */,
+				F9048818157DE31E00A97FBC /* Frameworks */,
+				F9048819157DE31E00A97FBC /* Resources */,
+				F904881A157DE31E00A97FBC /* ShellScript */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				F9048822157DE31E00A97FBC /* PBXTargetDependency */,
+			);
+			name = GlossaryItemsTests;
+			productName = GlossaryItemsTests;
+			productReference = F904881C157DE31E00A97FBC /* GlossaryItemsTests.octest */;
+			productType = "com.apple.product-type.bundle";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		F90487F2157DE31E00A97FBC /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				CLASSPREFIX = Glossary;
+				LastUpgradeCheck = 0430;
+			};
+			buildConfigurationList = F90487F5157DE31E00A97FBC /* Build configuration list for PBXProject "GlossaryItems" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = F90487F0157DE31E00A97FBC;
+			productRefGroup = F90487FC157DE31E00A97FBC /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				F90487FA157DE31E00A97FBC /* GlossaryItems */,
+				F904881B157DE31E00A97FBC /* GlossaryItemsTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		F90487F9157DE31E00A97FBC /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F904880A157DE31E00A97FBC /* InfoPlist.strings in Resources */,
+				F9048816157DE31E00A97FBC /* GlossaryViewController.xib in Resources */,
+				F9048838157DE33900A97FBC /* GlossaryDetailViewController.xib in Resources */,
+				F904883C157DE37600A97FBC /* Glossary.plist in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F9048819157DE31E00A97FBC /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F9048828157DE31E00A97FBC /* InfoPlist.strings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		F904881A157DE31E00A97FBC /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "# Run the unit tests in this test bundle.\n\"${SYSTEM_DEVELOPER_DIR}/Tools/RunUnitTests\"\n";
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		F90487F7157DE31E00A97FBC /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F904880C157DE31E00A97FBC /* main.m in Sources */,
+				F9048810157DE31E00A97FBC /* GlossaryAppDelegate.m in Sources */,
+				F9048813157DE31E00A97FBC /* GlossaryViewController.m in Sources */,
+				F9048837157DE33900A97FBC /* GlossaryDetailViewController.m in Sources */,
+				F9048846157DE7C900A97FBC /* NSDictionary+MutableDeepCopy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F9048817157DE31E00A97FBC /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F904882B157DE31E00A97FBC /* GlossaryItemsTests.m in Sources */,
+				F904883F157DE38F00A97FBC /* GlossaryData.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		F9048822157DE31E00A97FBC /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = F90487FA157DE31E00A97FBC /* GlossaryItems */;
+			targetProxy = F9048821157DE31E00A97FBC /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		F9048808157DE31E00A97FBC /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				F9048809157DE31E00A97FBC /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		F9048814157DE31E00A97FBC /* GlossaryViewController.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				F9048815157DE31E00A97FBC /* en */,
+			);
+			name = GlossaryViewController.xib;
+			sourceTree = "<group>";
+		};
+		F9048826157DE31E00A97FBC /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				F9048827157DE31E00A97FBC /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		F904882C157DE31E00A97FBC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		F904882D157DE31E00A97FBC /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		F904882F157DE31E00A97FBC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "GlossaryItems/GlossaryItems-Prefix.pch";
+				INFOPLIST_FILE = "GlossaryItems/GlossaryItems-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		F9048830157DE31E00A97FBC /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "GlossaryItems/GlossaryItems-Prefix.pch";
+				INFOPLIST_FILE = "GlossaryItems/GlossaryItems-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+		F9048832157DE31E00A97FBC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/GlossaryItems.app/GlossaryItems";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(DEVELOPER_LIBRARY_DIR)/Frameworks",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "GlossaryItems/GlossaryItems-Prefix.pch";
+				INFOPLIST_FILE = "GlossaryItemsTests/GlossaryItemsTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = octest;
+			};
+			name = Debug;
+		};
+		F9048833157DE31E00A97FBC /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/GlossaryItems.app/GlossaryItems";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(DEVELOPER_LIBRARY_DIR)/Frameworks",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "GlossaryItems/GlossaryItems-Prefix.pch";
+				INFOPLIST_FILE = "GlossaryItemsTests/GlossaryItemsTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = octest;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		F90487F5157DE31E00A97FBC /* Build configuration list for PBXProject "GlossaryItems" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F904882C157DE31E00A97FBC /* Debug */,
+				F904882D157DE31E00A97FBC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		F904882E157DE31E00A97FBC /* Build configuration list for PBXNativeTarget "GlossaryItems" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F904882F157DE31E00A97FBC /* Debug */,
+				F9048830157DE31E00A97FBC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		F9048831157DE31E00A97FBC /* Build configuration list for PBXNativeTarget "GlossaryItemsTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F9048832157DE31E00A97FBC /* Debug */,
+				F9048833157DE31E00A97FBC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = F90487F2157DE31E00A97FBC /* Project object */;
+}

@@ -1,0 +1,612 @@
+TGlossaryItems
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile "/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Products/Debug-iphonesimulator/GlossaryItems.app/Info.plist" GlossaryItems/GlossaryItems-Info.plist
+cProcessPCH "/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Intermediates/PrecompiledHeaders/GlossaryItems-Prefix-bpacdpqyzvuoindfsizprupbvbwo/GlossaryItems-Prefix.pch.pth" GlossaryItems/GlossaryItems-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/Objects-normal/i386/main.o "/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/GlossaryItems/main.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/Objects-normal/i386/GlossaryAppDelegate.o "/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/GlossaryItems/GlossaryAppDelegate.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/Objects-normal/i386/GlossaryViewController.o "/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/GlossaryItems/GlossaryViewController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/Objects-normal/i386/GlossaryDetailViewController.o "/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/GlossaryItems/GlossaryDetailViewController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/Objects-normal/i386/NSDictionary+MutableDeepCopy.o "/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/GlossaryItems/NSDictionary+MutableDeepCopy.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd "/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Products/Debug-iphonesimulator/GlossaryItems.app/GlossaryItems" normal i386
+cGenerateDSYMFile "/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Products/Debug-iphonesimulator/GlossaryItems.app.dSYM" "/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Products/Debug-iphonesimulator/GlossaryItems.app/GlossaryItems"
+cCopyStringsFile "/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Products/Debug-iphonesimulator/GlossaryItems.app/en.lproj/InfoPlist.strings" GlossaryItems/en.lproj/InfoPlist.strings
+cCompileXIB "/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/GlossaryItems/en.lproj/GlossaryViewController.xib"
+cCompileXIB "/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/GlossaryItems/GlossaryDetailViewController.xib"
+cCopyPlistFile "/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Products/Debug-iphonesimulator/GlossaryItems.app/Glossary.plist" GlossaryItems/Glossary.plist
+cTouch "/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Products/Debug-iphonesimulator/GlossaryItems.app"
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk
+c000000004F453DF80000000000000110
+t1329937912
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004F551CFA0000000000244490
+t1330978042
+s2376848
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004F551D040000000000353830
+t1330978052
+s3487792
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004F551D250000000000905E40
+t1330978085
+s9461312
+
+N/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/Objects-normal/i386/GlossaryAppDelegate.o
+t1338879701
+s63236
+
+N/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/Objects-normal/i386/GlossaryDetailViewController.o
+t1338879701
+s49996
+
+N/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/Objects-normal/i386/GlossaryItems.LinkFileList
+c000000004FE316410000000000000376
+t1340282433
+s886
+
+N/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/Objects-normal/i386/GlossaryViewController.o
+t1338880160
+s96668
+
+N/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/Objects-normal/i386/NSDictionary+MutableDeepCopy.o
+t1338880141
+s7196
+
+N/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/Objects-normal/i386/main.o
+t1338879701
+s3232
+
+N/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Intermediates/PrecompiledHeaders/GlossaryItems-Prefix-bpacdpqyzvuoindfsizprupbvbwo/GlossaryItems-Prefix.pch.pth
+t2
+s0
+
+N/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Products/Debug-iphonesimulator/GlossaryItems.app
+t1338884608
+s272
+
+N/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Products/Debug-iphonesimulator/GlossaryItems.app.dSYM
+t1338880160
+s102
+
+N/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Products/Debug-iphonesimulator/GlossaryItems.app/Glossary.plist
+t1338884608
+s905
+
+N/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Products/Debug-iphonesimulator/GlossaryItems.app/GlossaryDetailViewController.nib
+t1338879702
+s1702
+
+N/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Products/Debug-iphonesimulator/GlossaryItems.app/GlossaryItems
+t1338880160
+s59748
+
+N/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Products/Debug-iphonesimulator/GlossaryItems.app/Info.plist
+t1338879700
+s817
+
+N/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Products/Debug-iphonesimulator/GlossaryItems.app/PkgInfo
+t1338879700
+s8
+
+N/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Products/Debug-iphonesimulator/GlossaryItems.app/en.lproj/GlossaryViewController.nib
+t1338879702
+s1546
+
+N/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Products/Debug-iphonesimulator/GlossaryItems.app/en.lproj/InfoPlist.strings
+t1338879701
+s42
+
+N/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/GlossaryItems/Glossary.plist
+c000000004FCDC1F700000000000008F2
+t1338884599
+s2290
+
+N/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/GlossaryItems/GlossaryAppDelegate.m
+c000000004FCDAB9E0000000000000990
+t1338878878
+s2448
+
+N/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/GlossaryItems/GlossaryDetailViewController.m
+c000000004FCDADA000000000000005F0
+t1338879392
+s1520
+
+N/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/GlossaryItems/GlossaryDetailViewController.xib
+c000000004FCDAE560000000000002BDF
+t1338879574
+s11231
+
+N/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/GlossaryItems/GlossaryItems-Prefix.pch
+c000000004FCDAB9E0000000000000149
+t1338878878
+s329
+
+N/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/GlossaryItems/GlossaryViewController.m
+c000000004FCDB09D0000000000003776
+t1338880157
+s14198
+
+N/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/GlossaryItems/NSDictionary+MutableDeepCopy.m
+c000000004FCDB08D000000000000036E
+t1338880141
+s878
+
+N/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/GlossaryItems/en.lproj/GlossaryViewController.xib
+c000000004FCDAEC2000000000000368B
+t1338879682
+s13963
+
+N/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/GlossaryItems/en.lproj/InfoPlist.strings
+c000000004FCDAB9E000000000000002D
+t1338878878
+s45
+
+N/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/GlossaryItems/main.m
+c000000004FCDAB9E0000000000000174
+t1338878878
+s372
+
+N/Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/Objects-normal/i386/GlossaryAppDelegate.o
+t1338879701
+s63236
+
+N/Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/Objects-normal/i386/GlossaryDetailViewController.o
+t1338879701
+s49996
+
+N/Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/Objects-normal/i386/GlossaryItems.LinkFileList
+c000000004FCDB08D000000000000036C
+t1338880141
+s876
+
+N/Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/Objects-normal/i386/GlossaryViewController.o
+t1338880160
+s96668
+
+N/Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/Objects-normal/i386/NSDictionary+MutableDeepCopy.o
+t1338880141
+s7196
+
+N/Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/Objects-normal/i386/main.o
+t1338879701
+s3232
+
+N/Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Intermediates/PrecompiledHeaders/GlossaryItems-Prefix-gqccxkaxxriloobdsgrrumoubxjg/GlossaryItems-Prefix.pch.pth
+t1338879700
+s4029228
+
+N/Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Products/Debug-iphonesimulator/GlossaryItems.app
+t1338880160
+s272
+
+N/Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Products/Debug-iphonesimulator/GlossaryItems.app.dSYM
+t1338880160
+s102
+
+N/Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Products/Debug-iphonesimulator/GlossaryItems.app/Glossary.plist
+t1338879701
+s21713
+
+N/Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Products/Debug-iphonesimulator/GlossaryItems.app/GlossaryDetailViewController.nib
+t1338879702
+s1702
+
+N/Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Products/Debug-iphonesimulator/GlossaryItems.app/GlossaryItems
+t1338880160
+s59748
+
+N/Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Products/Debug-iphonesimulator/GlossaryItems.app/Info.plist
+t1338879700
+s817
+
+N/Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Products/Debug-iphonesimulator/GlossaryItems.app/PkgInfo
+t1338879700
+s8
+
+N/Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Products/Debug-iphonesimulator/GlossaryItems.app/en.lproj/GlossaryViewController.nib
+t1338879702
+s1546
+
+N/Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Products/Debug-iphonesimulator/GlossaryItems.app/en.lproj/InfoPlist.strings
+t1338879701
+s42
+
+N/Users/dhanasekar.gunabalan/Desktop/GlossaryItems/GlossaryItems/Glossary.plist
+c000000004FCDC1F700000000000008F2
+t1338884599
+s2290
+
+N/Users/dhanasekar.gunabalan/Desktop/GlossaryItems/GlossaryItems/GlossaryAppDelegate.h
+c000000004FCDAB9E00000000000001A0
+t1338878878
+s416
+
+N/Users/dhanasekar.gunabalan/Desktop/GlossaryItems/GlossaryItems/GlossaryAppDelegate.m
+c000000004FCDAB9E0000000000000990
+t1338878878
+s2448
+
+N/Users/dhanasekar.gunabalan/Desktop/GlossaryItems/GlossaryItems/GlossaryData.h
+c000000004FC61069000000000000015A
+t1338380393
+s346
+
+N/Users/dhanasekar.gunabalan/Desktop/GlossaryItems/GlossaryItems/GlossaryDetailViewController.h
+c000000004FCDAECE00000000000001B6
+t1338879694
+s438
+
+N/Users/dhanasekar.gunabalan/Desktop/GlossaryItems/GlossaryItems/GlossaryDetailViewController.m
+c000000004FCDADA000000000000005F0
+t1338879392
+s1520
+
+N/Users/dhanasekar.gunabalan/Desktop/GlossaryItems/GlossaryItems/GlossaryDetailViewController.xib
+c000000004FCDAE560000000000002BDF
+t1338879574
+s11231
+
+N/Users/dhanasekar.gunabalan/Desktop/GlossaryItems/GlossaryItems/GlossaryItems-Prefix.pch
+c000000004FCDAB9E0000000000000149
+t1338878878
+s329
+
+N/Users/dhanasekar.gunabalan/Desktop/GlossaryItems/GlossaryItems/GlossaryViewController.h
+c000000004FCDAEC60000000000000320
+t1338879686
+s800
+
+N/Users/dhanasekar.gunabalan/Desktop/GlossaryItems/GlossaryItems/GlossaryViewController.m
+c000000004FE301C80000000000003775
+t1340277192
+s14197
+
+N/Users/dhanasekar.gunabalan/Desktop/GlossaryItems/GlossaryItems/NSDictionary+MutableDeepCopy.h
+c000000004FCDB08D000000000000012B
+t1338880141
+s299
+
+N/Users/dhanasekar.gunabalan/Desktop/GlossaryItems/GlossaryItems/NSDictionary+MutableDeepCopy.m
+c000000004FCDB08D000000000000036E
+t1338880141
+s878
+
+N/Users/dhanasekar.gunabalan/Desktop/GlossaryItems/GlossaryItems/NSDictionary-MutableDeepCopy.h
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/dhanasekar.gunabalan/Desktop/GlossaryItems/GlossaryItems/en.lproj/GlossaryViewController.xib
+c000000004FCDAEC2000000000000368B
+t1338879682
+s13963
+
+N/Users/dhanasekar.gunabalan/Desktop/GlossaryItems/GlossaryItems/en.lproj/InfoPlist.strings
+c000000004FCDAB9E000000000000002D
+t1338878878
+s45
+
+N/Users/dhanasekar.gunabalan/Desktop/GlossaryItems/GlossaryItems/main.m
+c000000004FCDAB9E0000000000000174
+t1338878878
+s372
+
+NGlossaryItems/GlossaryItems-Info.plist
+c000000004FCDAB9E0000000000000491
+t1338878878
+s1169
+
+CBuild AST from "/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/GlossaryItems/GlossaryAppDelegate.m"
+r0
+
+CBuild AST from "/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/GlossaryItems/GlossaryDetailViewController.m"
+r0
+
+CBuild AST from "/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/GlossaryItems/GlossaryViewController.m"
+r0
+
+CBuild AST from "/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/GlossaryItems/NSDictionary+MutableDeepCopy.m"
+r0
+
+CBuild AST from "/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/GlossaryItems/main.m"
+r0
+
+CBuild AST from /Users/dhanasekar.gunabalan/Desktop/GlossaryItems/GlossaryItems/GlossaryAppDelegate.m
+r0
+
+CBuild AST from /Users/dhanasekar.gunabalan/Desktop/GlossaryItems/GlossaryItems/GlossaryDetailViewController.m
+r0
+
+CBuild AST from /Users/dhanasekar.gunabalan/Desktop/GlossaryItems/GlossaryItems/GlossaryViewController.m
+r0
+
+CBuild AST from /Users/dhanasekar.gunabalan/Desktop/GlossaryItems/GlossaryItems/NSDictionary+MutableDeepCopy.m
+r0
+
+CBuild AST from /Users/dhanasekar.gunabalan/Desktop/GlossaryItems/GlossaryItems/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesa1122bc14d93b541^711c54c14d93b541^---0#1#0#--18"Check dependencies36"5DDB2D34-D037-41B0-97CA-AE955A6F287D-
+
+CCompileC Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/Objects-normal/i386/GlossaryAppDelegate.o "/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/GlossaryItems/GlossaryAppDelegate.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s361975236.082156
+e361975236.275208
+r1
+xCompileC
+xBuild/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/Objects-normal/i386/GlossaryAppDelegate.o
+x/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/GlossaryItems/GlossaryAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compile /Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/GlossaryItems/GlossaryAppDelegate.md92615c44d93b541^f9304bc44d93b541^---0#0#0#-19%DVTDocumentLocation2@105"file://localhost/Users/dhanasekar.gunabalan/Desktop/GlossaryItems%202/GlossaryItems/GlossaryAppDelegate.m0000000000000000^3803"CompileC Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/Objects-normal/i386/GlossaryAppDelegate.o GlossaryItems/GlossaryAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote "/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/GlossaryItems-generated-files.hmap" "-I/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/GlossaryItems-own-target-headers.hmap" "-I/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/GlossaryItems-all-target-headers.hmap" -iquote "/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/GlossaryItems-project-headers.hmap" "-I/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Products/Debug-iphonesimulator/include" "-I/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/DerivedSources/i386" "-I/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/DerivedSources" "-F/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Products/Debug-iphonesimulator" -include "/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Intermediates/PrecompiledHeaders/GlossaryItems-Prefix-bpacdpqyzvuoindfsizprupbvbwo/GlossaryItems-Prefix.pch" -MMD -MT dependencies -MF "/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/Objects-normal/i386/GlossaryAppDelegate.d" --serialize-diagnostics "/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/Objects-normal/i386/GlossaryAppDelegate.dia" -c "/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/GlossaryItems/GlossaryAppDelegate.m" -o "/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/Objects-normal/i386/GlossaryAppDelegate.o"36"FA7C2017-26AA-4949-8802-A883D9B7D3C8-
+
+CCompileC Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/Objects-normal/i386/GlossaryAppDelegate.o /Users/dhanasekar.gunabalan/Desktop/GlossaryItems/GlossaryItems/GlossaryAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s360572501.028056
+e360572501.120589
+r1
+xCompileC
+xBuild/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/Objects-normal/i386/GlossaryAppDelegate.o
+x/Users/dhanasekar.gunabalan/Desktop/GlossaryItems/GlossaryItems/GlossaryAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compile /Users/dhanasekar.gunabalan/Desktop/GlossaryItems/GlossaryItems/GlossaryAppDelegate.m9e5c0755e67db541^cade1e55e67db541^---0#0#0#-19%DVTDocumentLocation2@101"file://localhost/Users/dhanasekar.gunabalan/Desktop/GlossaryItems/GlossaryItems/GlossaryAppDelegate.m0000000000000000^3747"CompileC Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/Objects-normal/i386/GlossaryAppDelegate.o GlossaryItems/GlossaryAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dhanasekar.gunabalan/Desktop/GlossaryItems    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/GlossaryItems-generated-files.hmap -I/Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/GlossaryItems-own-target-headers.hmap -I/Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/GlossaryItems-all-target-headers.hmap -iquote /Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/GlossaryItems-project-headers.hmap -I/Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Products/Debug-iphonesimulator/include -I/Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/DerivedSources/i386 -I/Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/DerivedSources -F/Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Products/Debug-iphonesimulator -include /Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Intermediates/PrecompiledHeaders/GlossaryItems-Prefix-gqccxkaxxriloobdsgrrumoubxjg/GlossaryItems-Prefix.pch -MMD -MT dependencies -MF /Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/Objects-normal/i386/GlossaryAppDelegate.d --serialize-diagnostics /Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/Objects-normal/i386/GlossaryAppDelegate.dia -c /Users/dhanasekar.gunabalan/Desktop/GlossaryItems/GlossaryItems/GlossaryAppDelegate.m -o /Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/Objects-normal/i386/GlossaryAppDelegate.o36"DA51382A-C7FD-4BB3-B768-786F356606DB-
+
+CCompileC Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/Objects-normal/i386/GlossaryDetailViewController.o "/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/GlossaryItems/GlossaryDetailViewController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s361975236.082339
+e361975236.250552
+r1
+xCompileC
+xBuild/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/Objects-normal/i386/GlossaryDetailViewController.o
+x/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/GlossaryItems/GlossaryDetailViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Compile /Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/GlossaryItems/GlossaryDetailViewController.mc63215c44d93b541^5e6842c44d93b541^---0#0#0#-19%DVTDocumentLocation2@114"file://localhost/Users/dhanasekar.gunabalan/Desktop/GlossaryItems%202/GlossaryItems/GlossaryDetailViewController.m0000000000000000^3857"CompileC Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/Objects-normal/i386/GlossaryDetailViewController.o GlossaryItems/GlossaryDetailViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote "/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/GlossaryItems-generated-files.hmap" "-I/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/GlossaryItems-own-target-headers.hmap" "-I/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/GlossaryItems-all-target-headers.hmap" -iquote "/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/GlossaryItems-project-headers.hmap" "-I/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Products/Debug-iphonesimulator/include" "-I/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/DerivedSources/i386" "-I/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/DerivedSources" "-F/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Products/Debug-iphonesimulator" -include "/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Intermediates/PrecompiledHeaders/GlossaryItems-Prefix-bpacdpqyzvuoindfsizprupbvbwo/GlossaryItems-Prefix.pch" -MMD -MT dependencies -MF "/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/Objects-normal/i386/GlossaryDetailViewController.d" --serialize-diagnostics "/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/Objects-normal/i386/GlossaryDetailViewController.dia" -c "/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/GlossaryItems/GlossaryDetailViewController.m" -o "/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/Objects-normal/i386/GlossaryDetailViewController.o"36"926397E6-FC68-4D20-9C62-F1DC94097A35-
+
+CCompileC Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/Objects-normal/i386/GlossaryDetailViewController.o /Users/dhanasekar.gunabalan/Desktop/GlossaryItems/GlossaryItems/GlossaryDetailViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s360572501.028074
+e360572501.098827
+r1
+xCompileC
+xBuild/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/Objects-normal/i386/GlossaryDetailViewController.o
+x/Users/dhanasekar.gunabalan/Desktop/GlossaryItems/GlossaryItems/GlossaryDetailViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Compile /Users/dhanasekar.gunabalan/Desktop/GlossaryItems/GlossaryItems/GlossaryDetailViewController.m3c500755e67db541^5d4e1955e67db541^---0#0#0#-19%DVTDocumentLocation2@110"file://localhost/Users/dhanasekar.gunabalan/Desktop/GlossaryItems/GlossaryItems/GlossaryDetailViewController.m0000000000000000^3801"CompileC Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/Objects-normal/i386/GlossaryDetailViewController.o GlossaryItems/GlossaryDetailViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dhanasekar.gunabalan/Desktop/GlossaryItems    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/GlossaryItems-generated-files.hmap -I/Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/GlossaryItems-own-target-headers.hmap -I/Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/GlossaryItems-all-target-headers.hmap -iquote /Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/GlossaryItems-project-headers.hmap -I/Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Products/Debug-iphonesimulator/include -I/Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/DerivedSources/i386 -I/Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/DerivedSources -F/Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Products/Debug-iphonesimulator -include /Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Intermediates/PrecompiledHeaders/GlossaryItems-Prefix-gqccxkaxxriloobdsgrrumoubxjg/GlossaryItems-Prefix.pch -MMD -MT dependencies -MF /Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/Objects-normal/i386/GlossaryDetailViewController.d --serialize-diagnostics /Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/Objects-normal/i386/GlossaryDetailViewController.dia -c /Users/dhanasekar.gunabalan/Desktop/GlossaryItems/GlossaryItems/GlossaryDetailViewController.m -o /Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/Objects-normal/i386/GlossaryDetailViewController.o36"94A294DB-C296-4C6C-B6FC-C8484AC962E5-
+
+CCompileC Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/Objects-normal/i386/GlossaryViewController.o "/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/GlossaryItems/GlossaryViewController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s361975236.082159
+e361975236.282375
+r1
+xCompileC
+xBuild/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/Objects-normal/i386/GlossaryViewController.o
+x/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/GlossaryItems/GlossaryViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Compile /Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/GlossaryItems/GlossaryViewController.m0b2715c44d93b541^9b3a4bc44d93b541^---0#0#0#-19%DVTDocumentLocation2@108"file://localhost/Users/dhanasekar.gunabalan/Desktop/GlossaryItems%202/GlossaryItems/GlossaryViewController.m0000000000000000^3821"CompileC Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/Objects-normal/i386/GlossaryViewController.o GlossaryItems/GlossaryViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote "/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/GlossaryItems-generated-files.hmap" "-I/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/GlossaryItems-own-target-headers.hmap" "-I/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/GlossaryItems-all-target-headers.hmap" -iquote "/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/GlossaryItems-project-headers.hmap" "-I/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Products/Debug-iphonesimulator/include" "-I/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/DerivedSources/i386" "-I/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/DerivedSources" "-F/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Products/Debug-iphonesimulator" -include "/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Intermediates/PrecompiledHeaders/GlossaryItems-Prefix-bpacdpqyzvuoindfsizprupbvbwo/GlossaryItems-Prefix.pch" -MMD -MT dependencies -MF "/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/Objects-normal/i386/GlossaryViewController.d" --serialize-diagnostics "/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/Objects-normal/i386/GlossaryViewController.dia" -c "/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/GlossaryItems/GlossaryViewController.m" -o "/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/Objects-normal/i386/GlossaryViewController.o"36"3D15E94B-E66E-4CCA-BEC4-01E5FAE7FF8E-
+
+CCompileC Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/Objects-normal/i386/GlossaryViewController.o /Users/dhanasekar.gunabalan/Desktop/GlossaryItems/GlossaryItems/GlossaryViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s360572959.154908
+e360572960.326722
+r1
+xCompileC
+xBuild/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/Objects-normal/i386/GlossaryViewController.o
+x/Users/dhanasekar.gunabalan/Desktop/GlossaryItems/GlossaryItems/GlossaryViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Compile /Users/dhanasekar.gunabalan/Desktop/GlossaryItems/GlossaryItems/GlossaryViewController.mb5e2271fe87db541^59a65320e87db541^---0#0#0#-19%DVTDocumentLocation2@104"file://localhost/Users/dhanasekar.gunabalan/Desktop/GlossaryItems/GlossaryItems/GlossaryViewController.m0000000000000000^3765"CompileC Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/Objects-normal/i386/GlossaryViewController.o GlossaryItems/GlossaryViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dhanasekar.gunabalan/Desktop/GlossaryItems    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/GlossaryItems-generated-files.hmap -I/Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/GlossaryItems-own-target-headers.hmap -I/Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/GlossaryItems-all-target-headers.hmap -iquote /Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/GlossaryItems-project-headers.hmap -I/Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Products/Debug-iphonesimulator/include -I/Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/DerivedSources/i386 -I/Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/DerivedSources -F/Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Products/Debug-iphonesimulator -include /Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Intermediates/PrecompiledHeaders/GlossaryItems-Prefix-gqccxkaxxriloobdsgrrumoubxjg/GlossaryItems-Prefix.pch -MMD -MT dependencies -MF /Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/Objects-normal/i386/GlossaryViewController.d --serialize-diagnostics /Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/Objects-normal/i386/GlossaryViewController.dia -c /Users/dhanasekar.gunabalan/Desktop/GlossaryItems/GlossaryItems/GlossaryViewController.m -o /Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/Objects-normal/i386/GlossaryViewController.o36"0F40AA53-C0ED-4A6A-A716-76BF826421C5-
+
+CCompileC Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/Objects-normal/i386/NSDictionary+MutableDeepCopy.o "/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/GlossaryItems/NSDictionary+MutableDeepCopy.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s361975236.277652
+e361975236.299690
+r1
+xCompileC
+xBuild/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/Objects-normal/i386/NSDictionary+MutableDeepCopy.o
+x/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/GlossaryItems/NSDictionary+MutableDeepCopy.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Compile /Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/GlossaryItems/NSDictionary+MutableDeepCopy.m553347c44d93b541^c36753c44d93b541^---0#0#0#-19%DVTDocumentLocation2@114"file://localhost/Users/dhanasekar.gunabalan/Desktop/GlossaryItems%202/GlossaryItems/NSDictionary+MutableDeepCopy.m0000000000000000^3857"CompileC Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/Objects-normal/i386/NSDictionary+MutableDeepCopy.o GlossaryItems/NSDictionary+MutableDeepCopy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote "/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/GlossaryItems-generated-files.hmap" "-I/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/GlossaryItems-own-target-headers.hmap" "-I/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/GlossaryItems-all-target-headers.hmap" -iquote "/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/GlossaryItems-project-headers.hmap" "-I/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Products/Debug-iphonesimulator/include" "-I/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/DerivedSources/i386" "-I/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/DerivedSources" "-F/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Products/Debug-iphonesimulator" -include "/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Intermediates/PrecompiledHeaders/GlossaryItems-Prefix-bpacdpqyzvuoindfsizprupbvbwo/GlossaryItems-Prefix.pch" -MMD -MT dependencies -MF "/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/Objects-normal/i386/NSDictionary+MutableDeepCopy.d" --serialize-diagnostics "/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/Objects-normal/i386/NSDictionary+MutableDeepCopy.dia" -c "/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/GlossaryItems/NSDictionary+MutableDeepCopy.m" -o "/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/Objects-normal/i386/NSDictionary+MutableDeepCopy.o"36"9D3C7C66-662C-4893-BADD-3B910BBF3A2E-
+
+CCompileC Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/Objects-normal/i386/NSDictionary+MutableDeepCopy.o /Users/dhanasekar.gunabalan/Desktop/GlossaryItems/GlossaryItems/NSDictionary+MutableDeepCopy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s360572941.150877
+e360572941.183497
+r1
+xCompileC
+xBuild/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/Objects-normal/i386/NSDictionary+MutableDeepCopy.o
+x/Users/dhanasekar.gunabalan/Desktop/GlossaryItems/GlossaryItems/NSDictionary+MutableDeepCopy.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Compile /Users/dhanasekar.gunabalan/Desktop/GlossaryItems/GlossaryItems/NSDictionary+MutableDeepCopy.m45b7260de87db541^76f92e0de87db541^---0#0#0#-19%DVTDocumentLocation2@110"file://localhost/Users/dhanasekar.gunabalan/Desktop/GlossaryItems/GlossaryItems/NSDictionary+MutableDeepCopy.m0000000000000000^3801"CompileC Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/Objects-normal/i386/NSDictionary+MutableDeepCopy.o GlossaryItems/NSDictionary+MutableDeepCopy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dhanasekar.gunabalan/Desktop/GlossaryItems    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/GlossaryItems-generated-files.hmap -I/Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/GlossaryItems-own-target-headers.hmap -I/Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/GlossaryItems-all-target-headers.hmap -iquote /Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/GlossaryItems-project-headers.hmap -I/Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Products/Debug-iphonesimulator/include -I/Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/DerivedSources/i386 -I/Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/DerivedSources -F/Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Products/Debug-iphonesimulator -include /Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Intermediates/PrecompiledHeaders/GlossaryItems-Prefix-gqccxkaxxriloobdsgrrumoubxjg/GlossaryItems-Prefix.pch -MMD -MT dependencies -MF /Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/Objects-normal/i386/NSDictionary+MutableDeepCopy.d --serialize-diagnostics /Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/Objects-normal/i386/NSDictionary+MutableDeepCopy.dia -c /Users/dhanasekar.gunabalan/Desktop/GlossaryItems/GlossaryItems/NSDictionary+MutableDeepCopy.m -o /Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/Objects-normal/i386/NSDictionary+MutableDeepCopy.o36"50CE1E1C-AE3C-4E4A-894A-5B7DE4BADFC9-
+
+CCompileC Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/Objects-normal/i386/main.o "/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/GlossaryItems/main.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s361975236.082136
+e361975236.247835
+r1
+xCompileC
+xBuild/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/Objects-normal/i386/main.o
+x/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/GlossaryItems/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Compile /Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/GlossaryItems/main.m522615c44d93b541^8a5a42c44d93b541^---0#0#0#-19%DVTDocumentLocation2@90"file://localhost/Users/dhanasekar.gunabalan/Desktop/GlossaryItems%202/GlossaryItems/main.m0000000000000000^3713"CompileC Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/Objects-normal/i386/main.o GlossaryItems/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote "/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/GlossaryItems-generated-files.hmap" "-I/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/GlossaryItems-own-target-headers.hmap" "-I/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/GlossaryItems-all-target-headers.hmap" -iquote "/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/GlossaryItems-project-headers.hmap" "-I/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Products/Debug-iphonesimulator/include" "-I/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/DerivedSources/i386" "-I/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/DerivedSources" "-F/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Products/Debug-iphonesimulator" -include "/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Intermediates/PrecompiledHeaders/GlossaryItems-Prefix-bpacdpqyzvuoindfsizprupbvbwo/GlossaryItems-Prefix.pch" -MMD -MT dependencies -MF "/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/Objects-normal/i386/main.d" --serialize-diagnostics "/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/Objects-normal/i386/main.dia" -c "/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/GlossaryItems/main.m" -o "/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/Objects-normal/i386/main.o"36"312CDB1A-72ED-47E2-A69C-0E2F5067B849-
+
+CCompileC Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/Objects-normal/i386/main.o /Users/dhanasekar.gunabalan/Desktop/GlossaryItems/GlossaryItems/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s360572501.028003
+e360572501.097958
+r1
+xCompileC
+xBuild/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/Objects-normal/i386/main.o
+x/Users/dhanasekar.gunabalan/Desktop/GlossaryItems/GlossaryItems/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile /Users/dhanasekar.gunabalan/Desktop/GlossaryItems/GlossaryItems/main.m88650755e67db541^541e1955e67db541^---0#0#0#-19%DVTDocumentLocation2@86"file://localhost/Users/dhanasekar.gunabalan/Desktop/GlossaryItems/GlossaryItems/main.m0000000000000000^3657"CompileC Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/Objects-normal/i386/main.o GlossaryItems/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dhanasekar.gunabalan/Desktop/GlossaryItems    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/GlossaryItems-generated-files.hmap -I/Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/GlossaryItems-own-target-headers.hmap -I/Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/GlossaryItems-all-target-headers.hmap -iquote /Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/GlossaryItems-project-headers.hmap -I/Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Products/Debug-iphonesimulator/include -I/Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/DerivedSources/i386 -I/Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/DerivedSources -F/Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Products/Debug-iphonesimulator -include /Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Intermediates/PrecompiledHeaders/GlossaryItems-Prefix-gqccxkaxxriloobdsgrrumoubxjg/GlossaryItems-Prefix.pch -MMD -MT dependencies -MF /Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/Objects-normal/i386/main.dia -c /Users/dhanasekar.gunabalan/Desktop/GlossaryItems/GlossaryItems/main.m -o /Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/Objects-normal/i386/main.o36"048F535E-AB5C-4C52-9592-9823E36DA190-
+
+CCompileXIB "/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/GlossaryItems/GlossaryDetailViewController.xib"
+r0
+
+CCompileXIB "/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/GlossaryItems/en.lproj/GlossaryViewController.xib"
+r0
+
+CCompileXIB /Users/dhanasekar.gunabalan/Desktop/GlossaryItems/GlossaryItems/GlossaryDetailViewController.xib
+s360572501.425204
+e360572502.219772
+r1
+xCompileXIB
+x/Users/dhanasekar.gunabalan/Desktop/GlossaryItems/GlossaryItems/GlossaryDetailViewController.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Compiling /Users/dhanasekar.gunabalan/Desktop/GlossaryItems/GlossaryItems/GlossaryDetailViewController.xib05fc6e55e67db541^af443856e67db541^---0#0#0#-19%DVTDocumentLocation2@112"file://localhost/Users/dhanasekar.gunabalan/Desktop/GlossaryItems/GlossaryItems/GlossaryDetailViewController.xib0000000000000000^944"CompileXIB GlossaryItems/GlossaryDetailViewController.xib    cd /Users/dhanasekar.gunabalan/Desktop/GlossaryItems    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 5.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Products/Debug-iphonesimulator/GlossaryItems.app/GlossaryDetailViewController.nib /Users/dhanasekar.gunabalan/Desktop/GlossaryItems/GlossaryItems/GlossaryDetailViewController.xib --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk36"6DE9388A-3F33-45C6-B2A1-526385DEC31E-
+
+CCompileXIB /Users/dhanasekar.gunabalan/Desktop/GlossaryItems/GlossaryItems/en.lproj/GlossaryViewController.xib
+s360572501.425204
+e360572502.181975
+r1
+xCompileXIB
+x/Users/dhanasekar.gunabalan/Desktop/GlossaryItems/GlossaryItems/en.lproj/GlossaryViewController.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Compiling /Users/dhanasekar.gunabalan/Desktop/GlossaryItems/GlossaryItems/en.lproj/GlossaryViewController.xibc2f76e55e67db541^5f962e56e67db541^---0#0#0#-19%DVTDocumentLocation2@115"file://localhost/Users/dhanasekar.gunabalan/Desktop/GlossaryItems/GlossaryItems/en.lproj/GlossaryViewController.xib0000000000000000^953"CompileXIB GlossaryItems/en.lproj/GlossaryViewController.xib    cd /Users/dhanasekar.gunabalan/Desktop/GlossaryItems    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 5.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Products/Debug-iphonesimulator/GlossaryItems.app/en.lproj/GlossaryViewController.nib /Users/dhanasekar.gunabalan/Desktop/GlossaryItems/GlossaryItems/en.lproj/GlossaryViewController.xib --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk36"B7B70E6B-92B3-435A-8450-778B7F0BEC57-
+
+CCopyPlistFile "/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Products/Debug-iphonesimulator/GlossaryItems.app/Glossary.plist" GlossaryItems/Glossary.plist
+r0
+
+CCopyPlistFile /Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Products/Debug-iphonesimulator/GlossaryItems.app/Glossary.plist GlossaryItems/Glossary.plist
+s360577408.009788
+e360577408.016918
+r1
+xCopyPlistFile
+x/Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Products/Debug-iphonesimulator/GlossaryItems.app/Glossary.plist
+xGlossaryItems/Glossary.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection33"Copy GlossaryItems/Glossary.plisteca40280f97db541^d36a0480f97db541^---0#0#0#-19%DVTDocumentLocation2@94"file://localhost/Users/dhanasekar.gunabalan/Desktop/GlossaryItems/GlossaryItems/Glossary.plist0000000000000000^551"CopyPlistFile Build/Products/Debug-iphonesimulator/GlossaryItems.app/Glossary.plist GlossaryItems/Glossary.plist    cd /Users/dhanasekar.gunabalan/Desktop/GlossaryItems    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyPlist --convert binary1 --outdir /Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Products/Debug-iphonesimulator/GlossaryItems.app -- GlossaryItems/Glossary.plist36"ED92655D-B0F5-43DE-BC9E-D44A6BD50583-
+
+CCopyStringsFile "/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Products/Debug-iphonesimulator/GlossaryItems.app/en.lproj/InfoPlist.strings" GlossaryItems/en.lproj/InfoPlist.strings
+r0
+
+CCopyStringsFile /Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Products/Debug-iphonesimulator/GlossaryItems.app/en.lproj/InfoPlist.strings GlossaryItems/en.lproj/InfoPlist.strings
+s360572501.425164
+e360572501.460279
+r1
+xCopyStringsFile
+x/Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Products/Debug-iphonesimulator/GlossaryItems.app/en.lproj/InfoPlist.strings
+xGlossaryItems/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Copy GlossaryItems/en.lproj/InfoPlist.strings12f56e55e67db541^5ed57555e67db541^---0#0#0#-19%DVTDocumentLocation2@106"file://localhost/Users/dhanasekar.gunabalan/Desktop/GlossaryItems/GlossaryItems/en.lproj/InfoPlist.strings0000000000000000^639"CopyStringsFile Build/Products/Debug-iphonesimulator/GlossaryItems.app/en.lproj/InfoPlist.strings GlossaryItems/en.lproj/InfoPlist.strings    cd /Users/dhanasekar.gunabalan/Desktop/GlossaryItems    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Products/Debug-iphonesimulator/GlossaryItems.app/en.lproj -- GlossaryItems/en.lproj/InfoPlist.strings36"03B93DDC-2920-4D76-975A-1C3CD3EF4DFB-
+
+CGenerateDSYMFile "/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Products/Debug-iphonesimulator/GlossaryItems.app.dSYM" "/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Products/Debug-iphonesimulator/GlossaryItems.app/GlossaryItems"
+s361975236.700078
+e361975236.756551
+r1
+xGenerateDSYMFile
+x/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Products/Debug-iphonesimulator/GlossaryItems.app.dSYM
+x/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Products/Debug-iphonesimulator/GlossaryItems.app/GlossaryItems
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection122"Generating /Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Products/Debug-iphonesimulator/GlossaryItems.app.dSYM884ab3c44d93b541^79acc1c44d93b541^---0#0#0#-19%DVTDocumentLocation2@130"file://localhost/Users/dhanasekar.gunabalan/Desktop/GlossaryItems%202/Build/Products/Debug-iphonesimulator/GlossaryItems.app.dSYM/0000000000000000^751"GenerateDSYMFile Build/Products/Debug-iphonesimulator/GlossaryItems.app.dSYM Build/Products/Debug-iphonesimulator/GlossaryItems.app/GlossaryItems    cd "/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/dsymutil "/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Products/Debug-iphonesimulator/GlossaryItems.app/GlossaryItems" -o "/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Products/Debug-iphonesimulator/GlossaryItems.app.dSYM"36"6DD7189A-D929-4B4B-8C58-2E5821C46DB4-
+
+CGenerateDSYMFile /Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Products/Debug-iphonesimulator/GlossaryItems.app.dSYM /Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Products/Debug-iphonesimulator/GlossaryItems.app/GlossaryItems
+s360572960.623684
+e360572960.829444
+r1
+xGenerateDSYMFile
+x/Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Products/Debug-iphonesimulator/GlossaryItems.app.dSYM
+x/Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Products/Debug-iphonesimulator/GlossaryItems.app/GlossaryItems
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection120"Generating /Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Products/Debug-iphonesimulator/GlossaryItems.app.dSYM03b69f20e87db541^b456d420e87db541^---0#0#0#-19%DVTDocumentLocation2@126"file://localhost/Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Products/Debug-iphonesimulator/GlossaryItems.app.dSYM/0000000000000000^739"GenerateDSYMFile Build/Products/Debug-iphonesimulator/GlossaryItems.app.dSYM Build/Products/Debug-iphonesimulator/GlossaryItems.app/GlossaryItems    cd /Users/dhanasekar.gunabalan/Desktop/GlossaryItems    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/dsymutil /Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Products/Debug-iphonesimulator/GlossaryItems.app/GlossaryItems -o /Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Products/Debug-iphonesimulator/GlossaryItems.app.dSYM36"5A712175-34CD-466C-830B-D12B66610D20-
+
+CLd "/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Products/Debug-iphonesimulator/GlossaryItems.app/GlossaryItems" normal i386
+s361975236.308142
+e361975236.692627
+r1
+xLd
+x/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Products/Debug-iphonesimulator/GlossaryItems.app/GlossaryItems
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection125"Link /Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Products/Debug-iphonesimulator/GlossaryItems.app/GlossaryItems2bf74ec44d93b541^22c4b5c44d93b541^---0#0#0#--1328"Ld Build/Products/Debug-iphonesimulator/GlossaryItems.app/GlossaryItems normal i386    cd "/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk "-L/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Products/Debug-iphonesimulator" "-F/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Products/Debug-iphonesimulator" -filelist "/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/Objects-normal/i386/GlossaryItems.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -Xlinker -no_implicit_dylibs -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -framework UIKit -framework Foundation -framework CoreGraphics -o "/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Products/Debug-iphonesimulator/GlossaryItems.app/GlossaryItems"36"7BD392C8-9911-4EB1-8E69-9ECE2DC291AA-
+
+CLd /Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Products/Debug-iphonesimulator/GlossaryItems.app/GlossaryItems normal i386
+s360572960.334293
+e360572960.616062
+r1
+xLd
+x/Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Products/Debug-iphonesimulator/GlossaryItems.app/GlossaryItems
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection123"Link /Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Products/Debug-iphonesimulator/GlossaryItems.app/GlossaryItems94a25520e87db541^c3b69d20e87db541^---0#0#0#--1308"Ld Build/Products/Debug-iphonesimulator/GlossaryItems.app/GlossaryItems normal i386    cd /Users/dhanasekar.gunabalan/Desktop/GlossaryItems    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -L/Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Products/Debug-iphonesimulator -F/Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Products/Debug-iphonesimulator -filelist /Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/Objects-normal/i386/GlossaryItems.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -Xlinker -no_implicit_dylibs -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Products/Debug-iphonesimulator/GlossaryItems.app/GlossaryItems36"5849856F-F38A-498D-AEE8-E8569E287438-
+
+CProcessInfoPlistFile "/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Products/Debug-iphonesimulator/GlossaryItems.app/Info.plist" GlossaryItems/GlossaryItems-Info.plist
+r0
+
+CProcessInfoPlistFile /Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Products/Debug-iphonesimulator/GlossaryItems.app/Info.plist GlossaryItems/GlossaryItems-Info.plist
+s360572500.722687
+e360572500.738220
+r1
+xProcessInfoPlistFile
+x/Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Products/Debug-iphonesimulator/GlossaryItems.app/Info.plist
+xGlossaryItems/GlossaryItems-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Process GlossaryItems/GlossaryItems-Info.plist8c11b954e67db541^a377be54e67db541^---0#0#0#-19%DVTDocumentLocation2@104"file://localhost/Users/dhanasekar.gunabalan/Desktop/GlossaryItems/GlossaryItems/GlossaryItems-Info.plist0000000000000000^752"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/GlossaryItems.app/Info.plist GlossaryItems/GlossaryItems-Info.plist    cd /Users/dhanasekar.gunabalan/Desktop/GlossaryItems    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility GlossaryItems/GlossaryItems-Info.plist -genpkginfo /Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Products/Debug-iphonesimulator/GlossaryItems.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Products/Debug-iphonesimulator/GlossaryItems.app/Info.plist36"CF8493F3-73DB-489E-BE0D-2BD6A03B2D1B-
+
+CProcessPCH "/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Intermediates/PrecompiledHeaders/GlossaryItems-Prefix-bpacdpqyzvuoindfsizprupbvbwo/GlossaryItems-Prefix.pch.pth" GlossaryItems/GlossaryItems-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s361975233.340715
+e361975236.074400
+r1
+xProcessPCH
+x/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Intermediates/PrecompiledHeaders/GlossaryItems-Prefix-bpacdpqyzvuoindfsizprupbvbwo/GlossaryItems-Prefix.pch.pth
+xGlossaryItems/GlossaryItems-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Precompile GlossaryItems/GlossaryItems-Prefix.pch715757c14d93b541^e41213c44d93b541^---0#0#0#-19%DVTDocumentLocation2@108"file://localhost/Users/dhanasekar.gunabalan/Desktop/GlossaryItems%202/GlossaryItems/GlossaryItems-Prefix.pch0000000000000000^3613"ProcessPCH Build/Intermediates/PrecompiledHeaders/GlossaryItems-Prefix-bpacdpqyzvuoindfsizprupbvbwo/GlossaryItems-Prefix.pch.pth GlossaryItems/GlossaryItems-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote "/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/GlossaryItems-generated-files.hmap" "-I/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/GlossaryItems-own-target-headers.hmap" "-I/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/GlossaryItems-all-target-headers.hmap" -iquote "/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/GlossaryItems-project-headers.hmap" "-I/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Products/Debug-iphonesimulator/include" "-I/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/DerivedSources/i386" "-I/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/DerivedSources" "-F/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Products/Debug-iphonesimulator" --serialize-diagnostics "/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Intermediates/PrecompiledHeaders/GlossaryItems-Prefix-bpacdpqyzvuoindfsizprupbvbwo/GlossaryItems-Prefix.pch.dia" -c "/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/GlossaryItems/GlossaryItems-Prefix.pch" -o "/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Intermediates/PrecompiledHeaders/GlossaryItems-Prefix-bpacdpqyzvuoindfsizprupbvbwo/GlossaryItems-Prefix.pch.pth" -MMD -MT dependencies -MF "/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Intermediates/PrecompiledHeaders/GlossaryItems-Prefix-bpacdpqyzvuoindfsizprupbvbwo/GlossaryItems-Prefix.pch.d"36"969E8825-11A1-4777-913C-A9842923D585-
+
+CProcessPCH /Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Intermediates/PrecompiledHeaders/GlossaryItems-Prefix-gqccxkaxxriloobdsgrrumoubxjg/GlossaryItems-Prefix.pch.pth GlossaryItems/GlossaryItems-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s360572500.746483
+e360572501.020564
+r1
+xProcessPCH
+x/Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Intermediates/PrecompiledHeaders/GlossaryItems-Prefix-gqccxkaxxriloobdsgrrumoubxjg/GlossaryItems-Prefix.pch.pth
+xGlossaryItems/GlossaryItems-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Precompile GlossaryItems/GlossaryItems-Prefix.pchfd33bf54e67db541^07430555e67db541^---0#0#0#-19%DVTDocumentLocation2@104"file://localhost/Users/dhanasekar.gunabalan/Desktop/GlossaryItems/GlossaryItems/GlossaryItems-Prefix.pch0000000000000000^3561"ProcessPCH Build/Intermediates/PrecompiledHeaders/GlossaryItems-Prefix-gqccxkaxxriloobdsgrrumoubxjg/GlossaryItems-Prefix.pch.pth GlossaryItems/GlossaryItems-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dhanasekar.gunabalan/Desktop/GlossaryItems    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/GlossaryItems-generated-files.hmap -I/Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/GlossaryItems-own-target-headers.hmap -I/Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/GlossaryItems-all-target-headers.hmap -iquote /Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/GlossaryItems-project-headers.hmap -I/Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Products/Debug-iphonesimulator/include -I/Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/DerivedSources/i386 -I/Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Intermediates/GlossaryItems.build/Debug-iphonesimulator/GlossaryItems.build/DerivedSources -F/Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Intermediates/PrecompiledHeaders/GlossaryItems-Prefix-gqccxkaxxriloobdsgrrumoubxjg/GlossaryItems-Prefix.pch.dia -c /Users/dhanasekar.gunabalan/Desktop/GlossaryItems/GlossaryItems/GlossaryItems-Prefix.pch -o /Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Intermediates/PrecompiledHeaders/GlossaryItems-Prefix-gqccxkaxxriloobdsgrrumoubxjg/GlossaryItems-Prefix.pch.pth -MMD -MT dependencies -MF /Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Intermediates/PrecompiledHeaders/GlossaryItems-Prefix-gqccxkaxxriloobdsgrrumoubxjg/GlossaryItems-Prefix.pch.d36"2D46926A-4540-4CEF-8891-41892C03B246-
+
+CProcessPCH /Users/dhanasekar.gunabalan/Library/Developer/Xcode/DerivedData/GlossaryItems-duokwnedhtebtcbvdawklaqumgqy/Index/PrecompiledHeaders/GlossaryItems-Prefix-dftrskvbxgkivabmromgvokcsqes_ast/GlossaryItems-Prefix.pch.pth GlossaryItems/GlossaryItems-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/dhanasekar.gunabalan/Library/Developer/Xcode/DerivedData/GlossaryItems-fbrsrdauagvplbbqcbzsbxmndtoe/Index/PrecompiledHeaders/GlossaryItems-Prefix-edyfjgwiqdqymmdfrwlvrpxugofu_ast/GlossaryItems-Prefix.pch.pth GlossaryItems/GlossaryItems-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch "/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Products/Debug-iphonesimulator/GlossaryItems.app"
+s361975236.774425
+e361975236.814797
+r1
+xTouch
+x/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Products/Debug-iphonesimulator/GlossaryItems.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Touch /Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Products/Debug-iphonesimulator/GlossaryItems.appdf4ec6c44d93b541^1496d0c44d93b541^---0#0#0#--448"Touch Build/Products/Debug-iphonesimulator/GlossaryItems.app    cd "/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/dhanasekar.gunabalan/Desktop/GlossaryItems 2/Build/Products/Debug-iphonesimulator/GlossaryItems.app"36"97A7DB95-3A7F-494F-BAD3-EF4E58948389-
+
+CTouch /Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Products/Debug-iphonesimulator/GlossaryItems.app
+s360577408.025786
+e360577408.061289
+r1
+xTouch
+x/Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Products/Debug-iphonesimulator/GlossaryItems.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Touch /Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Products/Debug-iphonesimulator/GlossaryItems.app04af0680f97db541^07b10f80f97db541^---0#0#0#--440"Touch Build/Products/Debug-iphonesimulator/GlossaryItems.app    cd /Users/dhanasekar.gunabalan/Desktop/GlossaryItems    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/dhanasekar.gunabalan/Desktop/GlossaryItems/Build/Products/Debug-iphonesimulator/GlossaryItems.app36"3E888A2F-093F-4FC9-8310-9C901874D099-
+
